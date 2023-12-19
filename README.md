@@ -1,6 +1,9 @@
 # DrevNET
 A game launcher designed for you. Powered by Steam. Made by Drevil. I had to port the original version to support the Github size limit lol. Note, this launcher is not fully open source, but rather partially open source due to Electron coding restrictions.
 
+NOTE:
+DrevNET has officially been discontinued. It will still be usable and receive updates, however there will be no events, sales or any new games. We will only push out bug fixes and patches. DrevNET is no longer our main focus.
+
 TUTORIAL:
 
 METHOD 1: Github Server
