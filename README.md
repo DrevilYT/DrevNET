@@ -3,6 +3,7 @@
 
 # NOTE:
 - DrevNET has officially been discontinued. It will still be usable and receive updates, however there will be no new events, sales or any new games. We will only push out bug fixes and patches. DrevNET is no longer our main focus.
+- DrevNET will officially shutdown on 21st of March, 2024. All servers will be closed. Drev+ members will receive a full refund for the month (if they haven't already cancelled). All download servers (Github and Drev) will be shutdown aswell. Say goodbye.
 
 # TUTORIAL:
 
